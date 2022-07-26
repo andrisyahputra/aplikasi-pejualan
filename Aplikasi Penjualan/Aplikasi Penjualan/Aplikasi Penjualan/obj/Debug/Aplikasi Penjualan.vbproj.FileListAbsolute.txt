@@ -1,0 +1,46 @@
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbprojAssemblyReference.cache
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Resources.resources
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.GenerateResource.cache
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CoreCompileInputs.cache
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Barang.resources
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Input_Barang.resources
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Penjualan.resources
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.Shared.dll
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\FlashControlV71.dll
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\ShockwaveFlashObjects.dll
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\stdole.dll
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Barang.resources
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CopyComplete
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Jual_Harian.resources
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Jual_Bulan.resources
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Jual_Tahun.resources
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Flash.resources
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_User.resources
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Login.resources
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.manifest
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.application
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe.manifest
+D:\Praktek new\my project vb\Aplikasi Pertama ku\Aplikasi Penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.application
